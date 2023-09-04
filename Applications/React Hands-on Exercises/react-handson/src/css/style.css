@@ -1,0 +1,9 @@
+.outputDivSmall{
+    width: 22rem;
+    margin: 10px
+}
+
+.divFlexDisplayCenter{
+    display: flex;
+    justify-content: center;
+}
